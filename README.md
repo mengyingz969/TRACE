@@ -1,2 +1,2 @@
 # TRACE
-Code for our paper "TRACE: Data-Free Text Reconstruction Attacks against Approximate Unlearning in LLMs" (NeurIPS 2026).
+Code for our paper "TRACE: Data-Free Text Reconstruction Attacks against Approximate Unlearning in LLMs", NeurIPS 2026 (Main Track).
